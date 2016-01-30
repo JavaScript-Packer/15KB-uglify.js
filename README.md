@@ -1,6 +1,6 @@
 # 15KB-uglify.js
 
-<script>
+# USAGE:
+
 var code="You JS source code";
 var minified=fuglify(code);
-</script>
